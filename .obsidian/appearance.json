@@ -1,0 +1,7 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#e386e4",
+  "enabledCssSnippets": [
+    "my_style"
+  ]
+}
