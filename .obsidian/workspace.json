@@ -170,6 +170,9 @@
   },
   "active": "21036b2044353902",
   "lastOpenFiles": [
+    "_site/images/20230511_124901.jpg",
+    "_site/images",
+    "images/20230511_124901.jpg",
     "_site/testy/index.html",
     "_site/testy",
     "_posts/2024-08-01-testy.md",
@@ -180,9 +183,6 @@
     "_site/images/1 1.gif",
     "images/1 1.gif",
     "_site/images/1.gif",
-    "_site/images/20230511_124901.jpg",
-    "_site/images",
-    "images/20230511_124901.jpg",
     "_site/test/index.html",
     "_site/test",
     "templates/post.md",
@@ -192,7 +192,6 @@
     "_site/templates/post.md",
     "_site/templates/무제 파일.md",
     "_site/templates",
-    "templates",
-    "images"
+    "templates"
   ]
 }
