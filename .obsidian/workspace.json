@@ -11,8 +11,12 @@
             "id": "21036b2044353902",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-08-01-testy.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2024-08-01-testy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2024-08-01-testy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/1.gif"
+                "file": "_posts/2024-08-01-testy.md"
               }
             }
           },
@@ -162,15 +168,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "28c71914fe11a6a8",
+  "active": "21036b2044353902",
   "lastOpenFiles": [
+    "_site/testy/index.html",
+    "_site/testy",
+    "_posts/2024-08-01-testy.md",
+    "images/1.gif",
     "_posts/2024-07-31-test.md",
     "_site/images/20230511_124901 1.jpg",
     "images/20230511_124901 1.jpg",
     "_site/images/1 1.gif",
     "images/1 1.gif",
     "_site/images/1.gif",
-    "images/1.gif",
     "_site/images/20230511_124901.jpg",
     "_site/images",
     "images/20230511_124901.jpg",
@@ -184,7 +193,6 @@
     "_site/templates/무제 파일.md",
     "_site/templates",
     "templates",
-    "images",
-    "_posts"
+    "images"
   ]
 }
