@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-02-test1.md",
+                "file": "_posts/2024-08-01-testy.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-02-test1.md",
+                "file": "_posts/2024-08-01-testy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-02-test1.md",
+                "file": "_posts/2024-08-01-testy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-02-test1.md"
+                "file": "_posts/2024-08-01-testy.md"
               }
             }
           },
@@ -170,6 +170,13 @@
   },
   "active": "21036b2044353902",
   "lastOpenFiles": [
+    "_site/testy/index.html",
+    "_site/testy",
+    "_posts/2024-08-02-test1.md",
+    "_site/test1/index.html",
+    "_site/test1",
+    "_site/2024-08-02-test1/index.html",
+    "_site/2024-08-02-test1",
     "_site/assets/images/404error2.png",
     "assets/images/404error2.png",
     "_site/assets/images/404error-removebg.png",
@@ -179,20 +186,14 @@
     "_site/google6c30ec1f4fd230cb.html",
     "google6c30ec1f4fd230cb.html",
     "_posts/2024-08-01-testy.md",
-    "_posts/2024-08-02-test1.md",
     "_site/coding/testy/index.html",
     "_site/coding/testy",
     "_site/coding",
-    "_site/2024-08-01-testy/index.html",
-    "_site/2024-08-01-testy",
     "templates/post.md",
     "_site/assets/images/404error.jpg",
     "assets/images/404error.jpg",
     "_site/assets/images/404 error.jpg",
     "assets/images/404 error.jpg",
-    "_site/test1/index.html",
-    "_site/test1",
-    "_site/2024-08-02-test1/index.html",
     "_site/_pages/404.md",
     "_pages/404.md",
     "_posts/2024-08-02-testy5.md",
@@ -202,7 +203,6 @@
     "_posts/2024-08-02-testy6.md",
     "_pages/tag-archive.md",
     "_pages/category-archive.md",
-    "_site/assets/images/logo.png",
     "_posts/2024-07-31-test.md",
     "_site/templates/post.md",
     "_site/templates/무제 파일.md"
