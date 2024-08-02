@@ -19,7 +19,7 @@ date_format              : "%d-%B-%Y"
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Plz don't shit the codes"
-title_separator          : "|"
+title_separator          : "-"
 subtitle                 : "Oops.. I'm shitting codes.." # site tagline that appears below site title in masthead
 name                     : "JaeHo Jeong"
 description              : "Oops.. I shit on my pants.."
@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "RoJae1339"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "JaeHo Jeong - Korea(south) Dev<br>Korea National Open Univ.<br><br>Trust Your Grit and Never Quit"
+  bio              : "JaeHo Jeong - Korea(south) Dev<br>Korea National Open Univ.<br><br>Trust Your Grit, Embrace the wit"
   location         : "Spain"
   email            : 
   links:
