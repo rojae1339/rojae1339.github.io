@@ -126,28 +126,22 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rojae1339.github.io"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100032710837786&locale=ko_KR"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://https://github.com/rojae1339"
+      url: "https://github.com/rojae1339"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://https://www.instagram.com/jaero_13/"
+      url: "https://www.instagram.com/jaero_13/"
 
 # Site Footer
 footer:
   links:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100032710837786&locale=ko_KR"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://https://github.com/rojae1339"
+      url: "https://github.com/rojae1339"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://https://www.instagram.com/jaero_13"
+      url: "https://www.instagram.com/jaero_13"
 
 
 # Reading Files
