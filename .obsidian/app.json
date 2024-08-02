@@ -2,7 +2,7 @@
   "livePreview": false,
   "readableLineLength": false,
   "spellcheck": false,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "attachmentFolderPath": "images",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
