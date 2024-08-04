@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21036b2044353902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-08-04-coding_test.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "e58fce34d63d06c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "templates/post.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "21036b2044353902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-08-04-kotlin-function-char2int.md",
                 "mode": "source",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/post.md",
+                "file": "_posts/2024-08-04-kotlin-function-char2int.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/post.md",
+                "file": "_posts/2024-08-04-kotlin-function-char2int.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/post.md"
+                "file": "_posts/2024-08-04-kotlin-function-char2int.md"
               }
             }
           },
@@ -181,33 +181,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e58fce34d63d06c4",
+  "active": "21036b2044353902",
   "lastOpenFiles": [
-    "_posts/2024-08-04-coding_test.md",
-    "templates/post.md",
+    "_site/coding-test/kotlin-function-char2int/index.html",
+    "_site/coding-test/kotlin-function-char2int",
+    "_site/coding-test/kotlin-function-1/index.html",
+    "_site/coding-test/kotlin-function-1",
+    "_site/coding-test",
+    "_site/images/ascii_table.png",
+    "images/ascii_table.png",
+    "_site/images/digitToInt_docu.png",
+    "images/digitToInt_docu.png",
+    "_site/2024-08-04-kotlin-function-1/index.html",
+    "_site/2024-08-04-kotlin-function-1",
+    "_site/images/toInt.png",
+    "_site/images",
+    "images/toInt.png",
+    "_site/2024-08-04-kotlin-method-1/index.html",
+    "_site/2024-08-04-kotlin-method-1",
+    "_site/coding-test/kotlin-method-1/index.html",
     "_posts/2024-08-02-test 2.md",
-    "_site/test/test2/test-2/index.html",
-    "_site/test/test2/test-2",
-    "_site/test/test2",
+    "_posts/2024-08-04-kotlin-function-char2int.md",
     "_posts/2024-08-01-test 1.md",
-    "_site/test,/test2/test-2/index.html",
-    "_site/test,/test2/test-2",
-    "_site/test/test-1/index.html",
-    "_site/test/test-1",
-    "_site/test,/test2/testy/index.html",
-    "_site/test,/test2/testy",
-    "_site/test,/test2",
+    "templates/post.md",
     "_posts/2024-08-02-test1.md",
     "_site/assets/images/404error2.png",
     "assets/images/404error2.png",
     "_site/assets/images/404error-removebg.png",
     "assets/images/404error-removebg.png",
-    "_site/assets/images/404error-removebg-preview.png",
-    "assets/images/404error-removebg-preview.png",
-    "_site/assets/images/404error.jpg",
-    "assets/images/404error.jpg",
-    "_site/assets/images/404 error.jpg",
-    "assets/images/404 error.jpg",
     "_site/_pages/404.md",
     "_pages/404.md",
     "_posts/2024-08-02-testy5.md",
