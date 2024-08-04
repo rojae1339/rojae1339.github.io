@@ -7,6 +7,9 @@ toc: true
 toc_icon: map-signs
 toc_label: Table of Contents
 ---
+
+Let's check out how to convert Int to various raix, also oposite way!
+
 <font color="#c0504d">Is there somone who doesn't know radix,</font>
 
 

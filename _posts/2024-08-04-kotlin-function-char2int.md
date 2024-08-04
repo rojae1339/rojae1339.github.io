@@ -8,6 +8,8 @@ toc_icon: map-signs
 toc_label: Table of Contents
 ---
 
+Let's check out how to convert Char to Int, also oposite way!
+
 Other data type in Kotlin, to convert data type,
 we can use `to~~()` functions.
 
