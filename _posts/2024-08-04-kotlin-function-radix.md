@@ -7,15 +7,16 @@ toc: true
 toc_icon: map-signs
 toc_label: Table of Contents
 ---
-Is there somone who doesn't know radix,
+<font color="#c0504d">Is there somone who doesn't know radix,</font>
+
 
 [Link: wikipedia-radix](https://en.wikipedia.org/wiki/Radix)
 
-check this first.
+<font color="#c0504d">check this first.</font>
 
 ---
 
-[Link: toString(radix)](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/to-string.html)
+[Link: toString(radix), Kotlin Official Docu](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/to-string.html)
 
 **only Int can convert to Radix String**
 
@@ -43,7 +44,7 @@ now, time to convert other side
 
 use `toInt(radix: Int)`! EASYEASY~
 
-[Link: toInt(radix)](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/to-int.html)
+[Link: toInt(radix)), Kotlin Official Docu](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/to-int.html)
 
 ```kotlin
 fun main() {  
