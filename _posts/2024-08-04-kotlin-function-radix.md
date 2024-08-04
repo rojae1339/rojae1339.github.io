@@ -1,8 +1,8 @@
 ---
 title: Convert int to various radix
 layout: single
-categories: 
-tags: 
+categories: coding-test
+tags: kotlin coding-test
 toc: true
 toc_icon: map-signs
 toc_label: Table of Contents

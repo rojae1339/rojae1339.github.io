@@ -2,7 +2,7 @@
 title: How to convert 'Char' to 'Int'
 layout: single
 categories: coding-test
-tags: 
+tags: kotlin coding-test
 toc: true
 toc_icon: map-signs
 toc_label: Table of Contents
