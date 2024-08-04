@@ -9,7 +9,7 @@ toc_label: Table of Contents
 ---
 Is there somone who doesn't know radix,
 
-https://en.wikipedia.org/wiki/Radix
+[Link: wikipedia-radix](https://en.wikipedia.org/wiki/Radix)
 
 check this first.
 
