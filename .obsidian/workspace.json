@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-01-testy.md",
+                "file": "_posts/2024-08-04-coding_test.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e58fce34d63d06c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/post.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-01-testy.md",
+                "file": "templates/post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-01-testy.md",
+                "file": "templates/post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-01-testy.md"
+                "file": "templates/post.md"
               }
             }
           },
@@ -168,27 +181,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "21036b2044353902",
+  "active": "e58fce34d63d06c4",
   "lastOpenFiles": [
+    "_posts/2024-08-04-coding_test.md",
+    "templates/post.md",
+    "_posts/2024-08-02-test 2.md",
+    "_site/test/test2/test-2/index.html",
+    "_site/test/test2/test-2",
+    "_site/test/test2",
+    "_posts/2024-08-01-test 1.md",
+    "_site/test,/test2/test-2/index.html",
+    "_site/test,/test2/test-2",
+    "_site/test/test-1/index.html",
+    "_site/test/test-1",
+    "_site/test,/test2/testy/index.html",
+    "_site/test,/test2/testy",
+    "_site/test,/test2",
     "_posts/2024-08-02-test1.md",
-    "_posts/2024-08-01-testy.md",
-    "_site/testy/index.html",
-    "_site/testy",
-    "_site/test1/index.html",
-    "_site/test1",
-    "_site/2024-08-02-test1/index.html",
-    "_site/2024-08-02-test1",
     "_site/assets/images/404error2.png",
     "assets/images/404error2.png",
     "_site/assets/images/404error-removebg.png",
     "assets/images/404error-removebg.png",
     "_site/assets/images/404error-removebg-preview.png",
     "assets/images/404error-removebg-preview.png",
-    "_site/google6c30ec1f4fd230cb.html",
-    "google6c30ec1f4fd230cb.html",
-    "_site/coding/testy/index.html",
-    "_site/coding/testy",
-    "templates/post.md",
     "_site/assets/images/404error.jpg",
     "assets/images/404error.jpg",
     "_site/assets/images/404 error.jpg",
