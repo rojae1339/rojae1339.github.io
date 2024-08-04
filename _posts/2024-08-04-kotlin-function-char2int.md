@@ -8,8 +8,6 @@ toc_icon: map-signs
 toc_label: Table of Contents
 ---
 
-# How to convert 'Char' 2 'Int' in Kotlin
-
 Other data type in Kotlin, to convert data type,
 we can use `to~~()` functions.
 
@@ -18,7 +16,7 @@ we should NOT use `toInt()` function.
 
 Because if we use it, that method is going to return `ASCII code number`.
 
-![](images/toInt.png)
+![](/images/toInt.png)
 
 Also deprecated.
 ~~if you want to get ASCII code num, you can use it~~
@@ -29,7 +27,7 @@ what should we use for convert `Char type` 2 `Int`?
 There's 3 ways to sole it!
 Let's follow it!
 
-## 1. convert to `String` first
+# 1. convert to `String` first
 
 let's see example code.
 
@@ -47,7 +45,7 @@ now you can do it!
 but not totally recommended..
 because there's 2 conversions.
 
-## 2. use function (recommended)
+# 2. use function (recommended)
 
 ```kotlin
 fun main() {  
@@ -62,27 +60,32 @@ use `digitToInt()` function.
 
 also, 
 if char is not decimal digit, `Throws exception`
-![](images/digitToInt_docu.png)
+![](/images/digitToInt_docu.png)
 
-[digitToInt Official Document](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/digit-to-int.html)
+[Link: digitToInt Official Document](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/digit-to-int.html)
 
-## 3. use '0'
+# 3. use '0'
 
 what a weird, right?
 
 how to use '0'?
 
 The answer is in at ASCII table.
+
 Let's see
 ![](images/ascii_table.png)
 
 Char '0' is Decimal 48.
+
 Then,
 if we want to get char's decimal, subtract '0' to char!
 
 > `'0' - '0' = 0`
+>
 > `'1' - '0' = 1`
+>
 > `'2' - '0' = 2`
+>
 > ......
 
 let's check sample code
@@ -91,7 +94,7 @@ fun main() {
     val char = '9'  
     //val char2Int = char.toInt() -> deprecated  
     println(char.code) // -> 57
-	println('0'.code) // -> 48
+    println('0'.code) // -> 48
     val subtractionChar = char - '0'  // 9
 }
 ```
